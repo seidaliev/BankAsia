@@ -1,0 +1,8 @@
+C:\Users\LANVIN\source\repos\BankAsia\BankAsia\Shared\bin\Debug\netstandard2.1\BankAsia.Shared.deps.json
+C:\Users\LANVIN\source\repos\BankAsia\BankAsia\Shared\bin\Debug\netstandard2.1\BankAsia.Shared.dll
+C:\Users\LANVIN\source\repos\BankAsia\BankAsia\Shared\bin\Debug\netstandard2.1\BankAsia.Shared.pdb
+C:\Users\LANVIN\source\repos\BankAsia\BankAsia\Shared\obj\Debug\netstandard2.1\BankAsia.Shared.AssemblyInfoInputs.cache
+C:\Users\LANVIN\source\repos\BankAsia\BankAsia\Shared\obj\Debug\netstandard2.1\BankAsia.Shared.AssemblyInfo.cs
+C:\Users\LANVIN\source\repos\BankAsia\BankAsia\Shared\obj\Debug\netstandard2.1\BankAsia.Shared.csproj.CoreCompileInputs.cache
+C:\Users\LANVIN\source\repos\BankAsia\BankAsia\Shared\obj\Debug\netstandard2.1\BankAsia.Shared.dll
+C:\Users\LANVIN\source\repos\BankAsia\BankAsia\Shared\obj\Debug\netstandard2.1\BankAsia.Shared.pdb
