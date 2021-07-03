@@ -1,7 +1,7 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\pHt7ga2rnh4n7qRx-y9ncos6nds0VtsJXmooAOp0AsY=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\c1kqMgTGJkBS4nTpvNUkfWoCrQuQSXHNnGnWkG1AURI=.hash",
       "Source": "C:\\Users\\LANVIN\\source\\repos\\BankAsia\\BankAsia\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BankAsia.Client.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BankAsia.Client.dll.gz"
     },
@@ -156,9 +156,34 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Text.Encodings.Web.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\Bs1Wrmh4ex9dTEIT0yCRF52N-wOmsBDt457BHr0-ssM=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\GeBGQjUH7gwzpsmPpuBbXywKtm-hwP823Mk_v5hXtzk=.hash",
+      "Source": "C:\\Users\\LANVIN\\source\\repos\\BankAsia\\BankAsia\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Authorization.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Authorization.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\SkmNG8Tet-ttcw04JCg4hkHMvQyKUc0gQFACS5gmFuI=.hash",
+      "Source": "C:\\Users\\LANVIN\\source\\repos\\BankAsia\\BankAsia\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Options.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Options.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\OKirhQZO8VdPKiwv9-GZhTMSBfthdPjJYYIZYP3nhS4=.hash",
+      "Source": "C:\\Users\\LANVIN\\source\\repos\\BankAsia\\BankAsia\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Primitives.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Primitives.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\FOkNrRxL9BroxWyRPNVFEiGQPggBBv7oo439W0ZnlXA=.hash",
       "Source": "C:\\Users\\LANVIN\\source\\repos\\BankAsia\\BankAsia\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.DependencyInjection.Abstractions.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\f8FzzUsU9rr6Dupw38tkhXC_WtIYRz8IPrij4OeyLWY=.hash",
+      "Source": "C:\\Users\\LANVIN\\source\\repos\\BankAsia\\BankAsia\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Metadata.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Metadata.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\VTqOqlM2Ik5hnXf5Lf1HKc1Ulk71djAgbUAfFXSXxqQ=.hash",
+      "Source": "C:\\Users\\LANVIN\\source\\repos\\BankAsia\\BankAsia\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Logging.Abstractions.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.Abstractions.dll.gz"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\bSgsT2x5xMvs8mara5wU_EJwcyHa9GVMU85HwhWcdWM=.hash",
@@ -181,14 +206,19 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.ComponentModel.DataAnnotations.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\PEg9ghiKSWBTX0jq8pFDvv2Yvw92Y8W0ELtWrSE4fhA=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\ZPt9o0cXnJG-20IqW9k5k4jfIWFSW0tLSTX-Xpzvikw=.hash",
       "Source": "C:\\Users\\LANVIN\\source\\repos\\BankAsia\\BankAsia\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Components.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\6gJMwefpsWLHWsEipZp143xn8k2Ea27upnXqjUT6iNI=.hash",
-      "Source": "C:\\Users\\LANVIN\\source\\repos\\BankAsia\\BankAsia\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Logging.Abstractions.dll",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.Abstractions.dll.gz"
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\Cez7S4apNGKRymvbMGFYR2TS5KrbEgqTuT4LSwQZKi8=.hash",
+      "Source": "C:\\Users\\LANVIN\\source\\repos\\BankAsia\\BankAsia\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Components.Authorization.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.Authorization.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\PBkHgL94PFeOPnRDEj1XgVuPDxqqO-EoCt7240AGjcE=.hash",
+      "Source": "C:\\Users\\LANVIN\\source\\repos\\BankAsia\\BankAsia\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.JSInterop.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.dll.gz"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\qL24dtC8KNURLxruAxFkNI7QwinFr9b0e9BwtHxWyBg=.hash",
@@ -204,11 +234,6 @@
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\oK1Bjv95fH_hSbogUkJE_xDAI203kJG6lL6Sm-NuPWg=.hash",
       "Source": "C:\\Users\\LANVIN\\source\\repos\\BankAsia\\BankAsia\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.DependencyInjection.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.DependencyInjection.dll.gz"
-    },
-    {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\y-FyJQOcW2TOcTp7Iuv8brGBzL5ZP0oJdG7ysK_gtKc=.hash",
-      "Source": "C:\\Users\\LANVIN\\source\\repos\\BankAsia\\BankAsia\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Primitives.dll",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Primitives.dll.gz"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\n0Ag7rF7ZQamklPSZkakIXkRoa6JwlmPSS0cRaAhJQM=.hash",
@@ -251,22 +276,12 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\rvTW0d54uLW0iDMAX30lpmr9f8uHoS3YYkEU5zNGhyc=.hash",
-      "Source": "C:\\Users\\LANVIN\\source\\repos\\BankAsia\\BankAsia\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Options.dll",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Options.dll.gz"
-    },
-    {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\LqwA2Rpm96Ualk0IhLZar87kfRCyKHzHTeTt2jYhm7M=.hash",
-      "Source": "C:\\Users\\LANVIN\\source\\repos\\BankAsia\\BankAsia\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.JSInterop.dll",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.dll.gz"
-    },
-    {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\czNf3btAeBW-vvID5LAfgcsNZ_GM3ssVuPaMflcg0rs=.hash",
       "Source": "C:\\Users\\LANVIN\\source\\repos\\BankAsia\\BankAsia\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.JSInterop.WebAssembly.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\kFiOPe-3EHa8ZbJSjSuzT4hsDrve8xbLxsxmIU2DAaI=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\SiR3cyz4ZWqkd6iwzSEXqlLtw4purw20XcAkp3CWbgU=.hash",
       "Source": "C:\\Users\\LANVIN\\source\\repos\\BankAsia\\BankAsia\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BankAsia.Client.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BankAsia.Client.pdb.gz"
     },
@@ -296,7 +311,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\0g4WPW5fe8wcAtrHsT-5GOtcSPEN-VunBSvLWse0uag=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\9TkMhZ1qwmrxVWFW-Rc__CVPi5d8jRXeeED1q_dWnPE=.hash",
       "Source": "C:\\Users\\LANVIN\\source\\repos\\BankAsia\\BankAsia\\Client\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.gz"
     }

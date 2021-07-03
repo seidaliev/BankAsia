@@ -75,6 +75,13 @@ using BankAsia.Client.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 11 "C:\Users\LANVIN\source\repos\BankAsia\BankAsia\Client\_Imports.razor"
+using Microsoft.AspNetCore.Components.Authorization;
+
+#line default
+#line hidden
+#nullable disable
     public partial class NavMenu : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
@@ -83,9 +90,11 @@ using BankAsia.Client.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 28 "C:\Users\LANVIN\source\repos\BankAsia\BankAsia\Client\Shared\NavMenu.razor"
+#line 51 "C:\Users\LANVIN\source\repos\BankAsia\BankAsia\Client\Shared\NavMenu.razor"
        
     private bool collapseNavMenu = true;
+
+    private bool expandSubMenu;
 
     private string NavMenuCssClass => collapseNavMenu ? "collapse" : null;
 

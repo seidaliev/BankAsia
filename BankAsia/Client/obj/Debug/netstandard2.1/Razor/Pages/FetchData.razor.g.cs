@@ -73,6 +73,13 @@ using BankAsia.Client.Shared;
 #line hidden
 #nullable disable
 #nullable restore
+#line 11 "C:\Users\LANVIN\source\repos\BankAsia\BankAsia\Client\_Imports.razor"
+using Microsoft.AspNetCore.Components.Authorization;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
 #line 2 "C:\Users\LANVIN\source\repos\BankAsia\BankAsia\Client\Pages\FetchData.razor"
 using BankAsia.Shared;
 

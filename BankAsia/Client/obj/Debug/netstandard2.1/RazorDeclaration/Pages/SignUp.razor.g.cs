@@ -4,7 +4,7 @@
 #pragma warning disable 0649
 #pragma warning disable 0169
 
-namespace BankAsia.Client.Shared
+namespace BankAsia.Client.Pages
 {
     #line hidden
     using System;
@@ -75,23 +75,21 @@ using BankAsia.Client.Shared;
 #line default
 #line hidden
 #nullable disable
-    public partial class SurveyPrompt : Microsoft.AspNetCore.Components.ComponentBase
+#nullable restore
+#line 11 "C:\Users\LANVIN\source\repos\BankAsia\BankAsia\Client\_Imports.razor"
+using Microsoft.AspNetCore.Components.Authorization;
+
+#line default
+#line hidden
+#nullable disable
+    [Microsoft.AspNetCore.Components.RouteAttribute("/signup")]
+    public partial class SignUp : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
         protected override void BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)
         {
         }
         #pragma warning restore 1998
-#nullable restore
-#line 12 "C:\Users\LANVIN\source\repos\BankAsia\BankAsia\Client\Shared\SurveyPrompt.razor"
-       
-    // Demonstrates how a parent component can supply parameters
-    [Parameter]
-    public string Title { get; set; }
-
-#line default
-#line hidden
-#nullable disable
     }
 }
 #pragma warning restore 1591

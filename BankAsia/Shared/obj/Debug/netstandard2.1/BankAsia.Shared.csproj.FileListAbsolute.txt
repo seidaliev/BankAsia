@@ -6,3 +6,4 @@ C:\Users\LANVIN\source\repos\BankAsia\BankAsia\Shared\obj\Debug\netstandard2.1\B
 C:\Users\LANVIN\source\repos\BankAsia\BankAsia\Shared\obj\Debug\netstandard2.1\BankAsia.Shared.csproj.CoreCompileInputs.cache
 C:\Users\LANVIN\source\repos\BankAsia\BankAsia\Shared\obj\Debug\netstandard2.1\BankAsia.Shared.dll
 C:\Users\LANVIN\source\repos\BankAsia\BankAsia\Shared\obj\Debug\netstandard2.1\BankAsia.Shared.pdb
+C:\Users\LANVIN\source\repos\BankAsia\BankAsia\Shared\obj\Debug\netstandard2.1\BankAsia.Shared.csprojAssemblyReference.cache

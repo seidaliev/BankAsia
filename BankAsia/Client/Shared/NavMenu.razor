@@ -1,5 +1,7 @@
 ﻿<div class="top-row pl-4 navbar navbar-dark">
-    <a class="navbar-brand" href="">BankAsia</a>
+    <div class="wrapper">
+        <a href=""><img class="img" src="/image/nav/rus_logo.png" width="150px" height="30px"></a>
+    </div>
     <button class="navbar-toggler" @onclick="ToggleNavMenu">
         <span class="navbar-toggler-icon"></span>
     </button>
@@ -9,24 +11,47 @@
     <ul class="nav flex-column">
         <li class="nav-item px-3">
             <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
-                <span class="oi oi-home" aria-hidden="true"></span> Home
+                <span class="oi oi-home" aria-hidden="true"></span> Главная
             </NavLink>
         </li>
         <li class="nav-item px-3">
             <NavLink class="nav-link" href="counter">
-                <span class="oi oi-plus" aria-hidden="true"></span> Counter
+                <span class="oi oi-plus" aria-hidden="true"></span> Считалка
             </NavLink>
         </li>
         <li class="nav-item px-3">
             <NavLink class="nav-link" href="fetchdata">
-                <span class="oi oi-list-rich" aria-hidden="true"></span> Fetch data
+                <span class="oi oi-list-rich" aria-hidden="true"></span> Погода
             </NavLink>
+        </li>
+
+        <li class="nav-item px-3">
+            <NavLink class="nav-link" href="login" @onclick="()=>expandSubMenu=!expandSubMenu">
+                <span class="oi oi-list-rich" aria-hidden="true"></span> Подменю тест
+            </NavLink>
+            @if (expandSubMenu)
+            {
+                <ul class="nav flex-column">
+                    <li class="nav-item px-3">
+                        <NavLink class="nav-link" href="/login">
+                            <span class="oi oi-list-rich" aria-hidden="true"></span>Login
+                        </NavLink>
+                    </li>
+                    <li class="nav-item px-3">
+                        <NavLink class="nav-link" href="/signup">
+                            <span class="oi oi-list-rich" aria-hidden="true"></span>SignUp
+                        </NavLink>
+                    </li>
+                </ul>
+            }
         </li>
     </ul>
 </div>
 
 @code {
     private bool collapseNavMenu = true;
+
+    private bool expandSubMenu;
 
     private string NavMenuCssClass => collapseNavMenu ? "collapse" : null;
 
